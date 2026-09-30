@@ -3,7 +3,7 @@
 **Materia:** Sistemas Operativos
 **Alumno:** Moreno Saenz Sebastian
 **Boleta:** 2025630357
-**Grupo:** [Tu grupo]
+**Grupo:** 4CM1
 
 ## Descripción
 

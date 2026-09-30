@@ -4,9 +4,9 @@ Repositorio con las tareas y prácticas de la materia de Sistemas Operativos,
 Ingeniería en Sistemas Computacionales, ESCOM-IPN.
 
 **Alumno:** [Tu nombre completo]
-**Boleta:** [Tu boleta]
-**Grupo:** [Tu grupo]
-**Semestre:** [Semestre]
+**Boleta:** 2025630357
+**Grupo:** 4CM1
+**Semestre:** 5
 
 ## Entorno de desarrollo
 
