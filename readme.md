@@ -3,10 +3,10 @@
 Repositorio con las tareas y prácticas de la materia de Sistemas Operativos,
 Ingeniería en Sistemas Computacionales, ESCOM-IPN.
 
-**Alumno:** Moreno Saenz Sebastian
-**Boleta:** 2025630357
-**Grupo:** 4CM1
-**Semestre:** 5
+- **Materia:** Sistemas Operativos
+- **Alumno:** Moreno Saenz Sebastian
+- **Boleta:** 2025630357
+- **Grupo:** 4CM1
 
 ## Entorno de desarrollo
 

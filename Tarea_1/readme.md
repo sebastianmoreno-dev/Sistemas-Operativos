@@ -1,9 +1,9 @@
 # Tarea 1: Programa que crea procesos
 
-**Materia:** Sistemas Operativos
-**Alumno:** Moreno Saenz Sebastian
-**Boleta:** 2025630357
-**Grupo:** 4CM1
+- **Materia:** Sistemas Operativos
+- **Alumno:** Moreno Saenz Sebastian
+- **Boleta:** 2025630357
+- **Grupo:** 4CM1
 
 ## Descripción
 
